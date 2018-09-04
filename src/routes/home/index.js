@@ -67,6 +67,12 @@ function Home() {
 							Dribbble
 						</LinkItem>
 						<LinkItem
+							href="https://www.slideshare.net/PatrickSmith55"
+							iconName='slideshare'
+						>
+							SlideShare
+						</LinkItem>
+						<LinkItem
 							href="https://pinterest.com/pgwsmith/pins/"
 							iconName='pinterest'
 						>

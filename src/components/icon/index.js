@@ -9,6 +9,7 @@ import { faPinterest } from '@fortawesome/free-brands-svg-icons/faPinterest'
 import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram'
 import { faBehanceSquare } from '@fortawesome/free-brands-svg-icons/faBehanceSquare'
 import { faDribbble } from '@fortawesome/free-brands-svg-icons/faDribbble'
+import { faSlideshare } from '@fortawesome/free-brands-svg-icons/faSlideshare'
 import style from './style.css'
 
 const icons = {
@@ -22,6 +23,7 @@ const icons = {
   instagram: faInstagram,
   behance: faBehanceSquare,
   dribbble: faDribbble,
+  slideshare: faSlideshare,
 }
 
 function Icon({
