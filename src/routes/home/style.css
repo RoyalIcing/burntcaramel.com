@@ -19,6 +19,8 @@
 }
 
 .home .linksNav {
+	position: relative;
+	z-index: 1;
 	margin-top: 2.8rem;
 	margin-bottom: 2.8rem;
 }
