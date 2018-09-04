@@ -3,7 +3,7 @@ import Icon from 'async!../../components/icon';
 import Block from '../../components/block';
 import Picture from '../../components/picture';
 import style from './style';
-import insignaImage from './insignia-2.png';
+import insignaImage from './insignia.png';
 
 function LinkItem({
 	children, href, iconName
