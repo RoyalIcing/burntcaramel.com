@@ -1,0 +1,6 @@
+.block {
+	max-width: 42em;
+	margin: auto;
+  padding: 0 1em;
+  padding: 0 calc(0.5em + 2vw);
+}

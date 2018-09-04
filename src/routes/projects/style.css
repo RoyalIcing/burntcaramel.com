@@ -1,0 +1,18 @@
+.projects {
+	padding-bottom: 1.4em;
+}
+
+.projects h1 {
+	text-align: center;
+}
+.projects h2 {
+	margin-top: 2.8rem;
+	text-align: center;
+}
+
+.project__points {
+	color: #FF3C54;
+}
+.project__point__inner {
+	color: white;
+}

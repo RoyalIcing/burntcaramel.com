@@ -1,0 +1,8 @@
+.picture {
+	margin-bottom: 1.4rem;
+}
+.picture__img {
+	display: block;
+	max-width: 100%;
+	margin: auto;
+}
