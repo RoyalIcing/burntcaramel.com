@@ -24,9 +24,9 @@ function Home() {
 			<Block>
 				<p>I am a digital product developer & designer from Melbourne, Australia, focused on creating apps for passionate professionals, both for clients and through my own projects.</p>
 
-				<p>Completing a Bachelor of Multimedia Design at Swinburne University in 2009, I then freelanced for companies large & small, and in 2011 I co-founded adventure sports video creator and curator InfinityList. From 2016 to beginning of 2018, I was lead educator at Coder Academy where I taught 3 six-month bootcamps.</p>
+				<p>Completing a Bachelor of Multimedia Design at Swinburne University in 2009, I then freelanced for companies large & small. In 2011 I co-founded adventure sports video creator and curator InfinityList, where I was the primary developer, and worked on UI design, strategy & monetisation. From 2016 to beginning of 2018, I was lead educator at Coder Academy where I taught 3 six-month bootcamps.</p>
 
-				<p>I now work at <a href="https://cogent.co/">Cogent</a>, a digital product consultancy. I also work on a range of open source projects, using Golang, Elm, JavaScript & Swift, at <a href="https://github.com/RoyalIcing">@RoyalIcing</a>.</p>
+				<p>I now work at <a href="https://cogent.co/">Cogent</a>, a digital product consultancy. I also work on a range of open source projects, using Golang, Elm, JavaScript & Swift, under the organisation <a href="https://github.com/RoyalIcing">@RoyalIcing</a>.</p>
 
 				<nav class={style.linksNav}>
 					<ul class={style.links}>
