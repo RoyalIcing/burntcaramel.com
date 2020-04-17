@@ -31,7 +31,7 @@ function Home() {
 				<nav class={style.linksNav}>
 					<ul class={style.links}>
 						<LinkItem
-							href="https://www.dropbox.com/s/mqv201sbql1692o/Patrick%20Smith%20Resume.pdf"
+							href="https://www.dropbox.com/s/dv4h6q8josw5paw/Patrick%20Smith%20Resume.pdf?dl=0"
 							iconName='paperclip'
 						>
 							Resume
