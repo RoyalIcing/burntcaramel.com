@@ -47,15 +47,19 @@ Solo project.
 				<Project
 					name='InfinityList'
 					points={`
-Video production house with clients such as Mercedes Benz, Luna Park, Casio, and Bounce.
+Video production house with clients such as Mercedes Benz, Casio, Luna Park, and Bounce.
 Received 400K visits and 1.4M page views per month at its peak.
 Had an average time on site of over 30 minutes.
-Allowed visitors to favourite videos, and also up-vote skills, cinematography, editing, and music.
+Developed voting system with weekly and monthly top charts across eight categories.
+Streamlined curation workflow with automatic feed of multiple video sources with triaging and publishing tools.
 Featured multiple novels ways of watching videos, from an infinity carousel, through to popular lists of the week and month
-Developed using PHP, MySQL, Memcache, jQuery, HTML5, CSS3.
+Developed using PHP, MySQL, jQuery, HTML5, CSS3.
+Used Memcache and Cloudflare for caching.
 UI design using paper, Photoshop.
 Used survey to get continual user feedback.
-Collaborative project, solo on development.
+Collaborative project, solo developer.
+Integrated DoubleClick, Buy Sell Ads, Google Analytics.
+Conducted interviews with leading action sports athletes.
 `.trim().split('\n')}
 					renderPicture={
 						() => <Picture imageURL={infinityListImage} description='Home page of InfinityList' />
